@@ -10,5 +10,5 @@ La directory xls contiene i file originali normalizzati.
 Per generare il file:
 
 ``` bash
-python extract.py > opensanita.csv
+python opensanita.py > opensanita.csv
 ```
